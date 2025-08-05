@@ -15,7 +15,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/riya-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="riya-dev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/riya-hati-747bb01a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riya-hati-747bb01a0/" height="30" width="40" /></a>
 </p>
 
@@ -26,4 +25,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riya-hati&show_icons=true&locale=en" alt="riya-hati" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riya-hati&" alt="riya-hati" /></p>
